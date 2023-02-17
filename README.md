@@ -1,2 +1,1 @@
-# bookquest-backend
-Bookquest app backend
+# bookquest-back
